@@ -1,4 +1,0 @@
-/home/wolf/Code_Pack/Video_test/build/CMakeFiles/detect_test.dir
-/home/wolf/Code_Pack/Video_test/build/CMakeFiles/Camera.dir
-/home/wolf/Code_Pack/Video_test/build/CMakeFiles/edit_cache.dir
-/home/wolf/Code_Pack/Video_test/build/CMakeFiles/rebuild_cache.dir
